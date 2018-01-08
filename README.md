@@ -1,4 +1,4 @@
-# _styling-with-classes_
+# _Media Queries and Responsive Design_
 
 #### _A sample set of html files to learn classes for Epicodus, at home 01/07/18_
 
